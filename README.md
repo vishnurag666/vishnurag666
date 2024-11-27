@@ -8,7 +8,7 @@
 Hi, I'm **Vishnurag**, a passionate **Software Development Engineer in Test (SDET)**.  
 I specialize in ensuring high-quality software through robust test automation and manual testing techniques.
 
--## 🌱 Learning  
+- ## 🌱 Learning  
 Always improving my coding and automation skills to stay ahead in QA trends!  
 
 - 💬 Ask me about **Cypress, Selenium and Post man**
