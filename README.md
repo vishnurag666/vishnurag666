@@ -4,7 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnurag666&label=Profile%20views&color=0e75b6&style=flat" alt="vishnurag666" /> </p>
 
-- 🌱 I’m currently learning **Software Development Engineering in Test**
+- # 💻 About Me  
+Hi, I'm **Vishnurag**, a passionate **Software Development Engineer in Test (SDET)**.  
+I specialize in ensuring high-quality software through robust test automation and manual testing techniques.
+
+-## 🌱 Learning  
+Always improving my coding and automation skills to stay ahead in QA trends!  
 
 - 💬 Ask me about **Cypress, Selenium and Post man**
 
