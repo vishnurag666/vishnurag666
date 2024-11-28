@@ -5,8 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnurag666&label=Profile%20views&color=0e75b6&style=flat" alt="vishnurag666" /> </p>
 
 - # 💻 About Me  
-Hi, I'm **Vishnurag**, a passionate **Software Development Engineer in Test (SDET)**.  
-I specialize in ensuring high-quality software through robust test automation and manual testing techniques.
+A passionate **Software Development Engineer in Test (SDET)** who excels in ensuring high-quality software through a combination of robust test automation and manual testing techniques..
 
 - ## 🌱 Learning  
 Always improving my coding and automation skills to stay ahead in QA trends!  
