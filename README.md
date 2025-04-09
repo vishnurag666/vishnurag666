@@ -1,23 +1,26 @@
+<p align="center">
+  <img src="https://img.freepik.com/free-vector/software-testing-text-concept-with-bug-control-symbols-flat-vector-illustration_1284-83605.jpg" alt="Software Testing Banner" width="60%" />
+</p>
 <h1 align="center">Hi 👋, I'm Vishnurag</h1>
 <h3 align="center">Passionate Software Development Engineer in Test (SDET) | Automation | Manual QA | Bug Hunter</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif"/>
+  <img src="https://github.com/Vishnurag666/Vishnurag666/assets/your-image-path/testing-banner.gif" alt="software-testing-banner" width="100%" />
 </p>
 
 ---
 
 ### 💡 About Me
-🔍 I'm a **Software Development Engineer in Test (SDET)** from 🇮🇳 India, driven by curiosity and passion to deliver quality software.  
-🛠️ I specialize in a mix of **Automation** and **Manual Testing** approaches to ensure the best user experience.  
-💬 Ask me about **Cypress, Selenium, Postman, Manual Testing, and Test Case Design**.
+🔍 A **Software Development Engineer in Test (SDET)** from 🇮🇳 India, driven by curiosity and passion to deliver quality software.  
+🛠️ Specialize in a mix of **Automation** and **Manual Testing** approaches to ensure the best user experience.  
+💬 Ask me about **Cypress, Selenium, Postman, API Testing, Test Case Writing**.
 
 ---
 
 ### 📚 Currently Learning
-- Enhancing my skills in **JavaScript Automation**
-- Exploring **Advanced Test Automation Frameworks**
-- Diving deeper into **API Testing** and **CI/CD**
+- Enhancing skills in **Automation Frameworks**
+- Working on **CI/CD pipelines with Jenkins**
+- Exploring **Performance Testing** with JMeter
 
 ---
 
@@ -37,6 +40,13 @@
   <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestNG-FF5F00?style=flat&logo=testing-library&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rest Assured-4A90E2?style=flat&logo=api&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
 </p>
 
 ---
