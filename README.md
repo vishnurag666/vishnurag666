@@ -1,31 +1,49 @@
 <h1 align="center">Hi 👋, I'm Vishnurag</h1>
-<h3 align="center">A passionate software tester from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.marklanceinfotech.com/wp-content/uploads/2023/11/Software-testing.gif">
+<h3 align="center">Passionate Software Development Engineer in Test (SDET) | Automation | Manual QA | Bug Hunter</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnurag666&label=Profile%20views&color=0e75b6&style=flat" alt="vishnurag666" /> </p>
-
-- # 💻 About Me  
-A passionate **Software Development Engineer in Test (SDET)** who excels in ensuring high-quality software through a combination of robust test automation and manual testing techniques..
-
-- ## 🌱 Learning  
-Always improving my coding and automation skills to stay ahead in QA trends!  
-
-- 💬 Ask me about **Cypress, Selenium and Post man**
-
-- 📫 How to reach me **vishnurag666@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/vishnurag-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vishnurag-p" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnurag666&show_icons=true&locale=en&layout=compact" alt="vishnurag666" /></p>
+### 💡 About Me
+🔍 I'm a **Software Development Engineer in Test (SDET)** from 🇮🇳 India, driven by curiosity and passion to deliver quality software.  
+🛠️ I specialize in a mix of **Automation** and **Manual Testing** approaches to ensure the best user experience.  
+💬 Ask me about **Cypress, Selenium, Postman, Manual Testing, and Test Case Design**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnurag666&show_icons=true&locale=en" alt="vishnurag666" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnurag666&" alt="vishnurag666" /></p>
+### 📚 Currently Learning
+- Enhancing my skills in **JavaScript Automation**
+- Exploring **Advanced Test Automation Frameworks**
+- Diving deeper into **API Testing** and **CI/CD**
+
+---
+
+### 🔗 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/vishnurag-p" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:vishnurag666@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+### ⚒️ Tools & Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnurag666&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnurag666&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnurag666&theme=tokyonight" />
+</p>
