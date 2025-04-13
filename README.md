@@ -11,7 +11,7 @@
 ---
 
 ### 💡 About Me
-🔍 A **Software Development Engineer in Test (SDET)** from ndia, driven by curiosity and passion to deliver quality software.  
+🔍 A **Software Development Engineer in Test (SDET)** from India, driven by curiosity and passion to deliver quality software.  
 🛠️ Specialize in a mix of **Automation** and **Manual Testing** approaches to ensure the best user experience.  
 💬 Ask me about **Cypress, Selenium, Postman, API Testing, Test Case Writing**.
 
