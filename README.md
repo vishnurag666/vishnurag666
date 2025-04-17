@@ -54,6 +54,12 @@
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnurag666&layout=compact&theme=tokyonight" />
+</p>
+
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=vishnurag666&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnurag666&theme=tokyonight" />
 </p>
